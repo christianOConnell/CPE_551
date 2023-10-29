@@ -1,5 +1,5 @@
 # outbreakProject  
-Simulates the spread of a disease through a population  
+Simulates the spread of a disease through a population.  Infected individuals infect adjacent susceptible individuals and then recover over time.    
 
 Example input:  
 Threshold:1  
