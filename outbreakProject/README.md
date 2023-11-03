@@ -1,7 +1,9 @@
 # outbreakProject  
-Simulates the spread of a disease through a population.  Infected individuals infect adjacent susceptible individuals and then recover over time.    
+Simulates the spread of a disease through a population and uses PyPlot to generate a plot of the simulation.  Infected individuals infect adjacent susceptible individuals and then recover over time.    
 
-Example input:  
+![plot of outbreak spread and recovery](outbreakPlot.png)
+
+Example input file contents:  
 Threshold:1  
 Infectious Period:3  
 s,s,s,s,s,s,s,s  
