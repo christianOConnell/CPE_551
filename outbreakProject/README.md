@@ -1,5 +1,5 @@
 # outbreakProject  
-Simulates the spread of a disease through a population and uses PyPlot to generate a plot of the simulation.  Infected individuals infect adjacent susceptible individuals and then recover over time.    
+Simulates the spread of a disease through a population and uses Matplotlib Pyplot to generate a plot of the simulation.  Infected individuals infect adjacent susceptible individuals and then recover over time.    
 
 ![plot of outbreak spread and recovery](outbreakPlot.png)
 
